@@ -32,10 +32,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "AMIR",
+    "BOTNAME": "Abrish Noor",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100002990590891",
+        "100068526002695",
         "",
         "",
         "",
@@ -46,7 +46,7 @@
         ""
     ],
     "NDH": [
-        "100002990590891",
+        "100068526002695",
         "100094547994769",
         "",
         "",
@@ -60,10 +60,10 @@
             "storage": "data.sqlite"
         }
     },
-   "OWNER": "Mian Amir",
+   "OWNER": "Abrish Noor",
     "AGE": "21",
-    "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://www.facebook.com/khizar.naveed.3?mibextid=ZbWKwL",
+    "GENDER": "Female",
+    "FACEBOOK": "https://www.facebook.com/profile.php?id=100068526002695&mibextid=ZbWKwL",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
